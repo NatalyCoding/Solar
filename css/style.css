@@ -225,4 +225,21 @@ ul {
     margin-bottom: 5px;
 }
 
+.blockquote {
+    padding: 128px 10px 144px;
+    background-image: url(../images/blockquote-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.blockquote__text {
+    max-width: 650px;
+    margin: 0 auto;
+    font-size: 42px;
+    line-height: 57px;
+    color: #ffffff;
+}
+
 
